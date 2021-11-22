@@ -1,0 +1,11 @@
+GET http://klln.ru
+
+### Хранение образов докер
+GET http://registry.klln.ru
+
+### Хранение репозиториев git
+GET http://git.klln.ru
+
+### Сокращённая запись домена для хранения образов Докер
+GET http://hub.klln.ru
+

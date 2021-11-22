@@ -1,0 +1,10 @@
+---
+-   name: Update apt packages
+    apt:
+        update_cache: yes
+-   name: Install admin services
+    apt:
+        name:
+            - mc
+        state: present
+        update_cache: yes

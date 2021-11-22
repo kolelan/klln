@@ -1,0 +1,6 @@
+certbot_email: kolelan@yandex.ru
+certbot_hosts:
+    - klln.ru
+    - hub.klln.ru
+    - lab.klln.ru
+    - regestry.klln.ru
